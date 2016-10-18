@@ -1,0 +1,29 @@
+{
+  "name": "bikes",
+  "version": "1.0.0",
+  "description": "dryve application",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priya259228/bikes.git"
+  },
+  "keywords": [
+    "web",
+    "app",
+    "for",
+    "dryve"
+  ],
+  "author": "Priya Maheshwary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priya259228/bikes/issues"
+  },
+  "homepage": "https://github.com/priya259228/bikes#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
